@@ -19,4 +19,5 @@ Spaceship (Imperial Courier) - https://www.asciiart.eu/space/spaceships
 3. Boss ASCII Art - https://ascii.co.uk/art/skulls
 
 ## Flow chart
+if you want to check the details, download Flowchart.pdf and zoom-in the document
 <img width="100%" src="https://user-images.githubusercontent.com/37797335/149282436-b0bd4f7c-1d43-4184-bd80-6a106191f7aa.jpg" />
