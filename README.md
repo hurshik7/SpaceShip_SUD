@@ -17,3 +17,6 @@ Technologies used for this project:
 Spaceship (Imperial Courier) - https://www.asciiart.eu/space/spaceships
 
 3. Boss ASCII Art - https://ascii.co.uk/art/skulls
+
+## Flow chart
+<img width="80%" src="https://github.com/hurshik7/SpaceShip_SUD/issues/1#issue-1101296527" />
