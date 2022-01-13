@@ -1,6 +1,5 @@
 """
-Your name: Shik Hur
-Your student number: A01249842
+@Author: Shik Hur
 """
 import math
 import random
@@ -159,7 +158,7 @@ def display_intro() -> None:
 
     """
 
-    intro_text_art = f"""       
+    intro_text_art = f"""
            !
            !
            ^
@@ -167,7 +166,7 @@ def display_intro() -> None:
          /___\\
         |=   =|
         |     |
-        |     |  
+        |     |
         |     |
         |     |
        /|##!##|\\
@@ -175,7 +174,7 @@ def display_intro() -> None:
      /  |##!##|  \\
     |  / ^ | ^ \\  |
     | /  ( | )  \\ |
-    |/   ( | )   \\|  
+    |/   ( | )   \\|
         ((   ))
        ((  :  ))      Hello Avengers! 23 days ago Sanctuary II which is a giant space mother ship attacked Earth.
        ((  :  ))      Unfortunately, It took the core of Earth! The core is essential to all life in Earth!
@@ -347,11 +346,11 @@ def is_alive(spaceship: dict) -> bool:
 def print_numbered_list_of_direction() -> None:
     """
     Print the numbered list of direction.
-    
+
     :precondition: must be called in the get_user_choice() function
     :postcondition: print numbered list of direction to users
     :return: None
-    
+
     >>> print_numbered_list_of_direction()
     <BLANKLINE>
     Where are you heading ?
