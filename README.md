@@ -19,4 +19,4 @@ Spaceship (Imperial Courier) - https://www.asciiart.eu/space/spaceships
 3. Boss ASCII Art - https://ascii.co.uk/art/skulls
 
 ## Flow chart
-<img width="80%" src="https://user-images.githubusercontent.com/37797335/149282436-b0bd4f7c-1d43-4184-bd80-6a106191f7aa.jpg" />
+<img width="100%" src="https://user-images.githubusercontent.com/37797335/149282436-b0bd4f7c-1d43-4184-bd80-6a106191f7aa.jpg" />
